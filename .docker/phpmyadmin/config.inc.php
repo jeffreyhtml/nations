@@ -3,7 +3,7 @@
 require '/etc/phpmyadmin/config.secret.inc.php';
 
 /* Ensure we got the environment */
-$vars = [
+$vars = [ // ddd
     'PMA_ARBITRARY',
     'PMA_HOST',
     'PMA_HOSTS',
